@@ -12,7 +12,7 @@
 # git add README.md
 # git commit -m "first commit"
 # git branch -M main
-# git remote add origin https://github.com/zhujun3753/FrameMVS.git
+# git remote add origin https://github.com/zhujun3753/zhujun3753.github.io.git
 # git push -u origin main
 #* 清空缓存
 # git rm -r --cached .
