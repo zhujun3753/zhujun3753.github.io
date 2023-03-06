@@ -7,6 +7,9 @@
 # # git push -u origin master
 # git push  origin master
 
+#* git pull  得到github上的文件，再修改上传！
+# git pull https://github.com/zhujun3753/zhujun3753.github.io.git
+
 # echo "# FrameMVS" >> README.md
 # git init
 # git add README.md
